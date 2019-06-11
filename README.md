@@ -3,7 +3,7 @@ Laravel  Login for multi user - Admin, Satff , User
 
 Install Laravel
 
-Step 1 - git clone https://rahulpa@bitbucket.org/rahulpa/cafe.git and enter your password
+Step 1 - git@github.com:rahulwayanad/Laravel--Multi-user-Login---Multi-Guard.git
 
 Step 2 - #cd cafe
 
